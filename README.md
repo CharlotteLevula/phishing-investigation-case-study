@@ -55,7 +55,9 @@ The script **does not execute JavaScript or make network requests**. It extracts
 
 ## Responsible disclosure
 
-An incident report was prepared for Finland's National Cyber Security Centre (NCSC-FI), including the original email as an attachment. **Submission/receipt status should be updated only after independently confirmed.** Attempts to email the SendGrid abuse address from Gmail were blocked by Gmail's outgoing abuse controls. No investigation outcome or attribution is claimed.
+An incident report was submitted to the Finnish National Cyber Security Centre (NCSC-FI) on 14 October 2026. The report included the original phishing email as an EML attachment, relevant technical indicators, and observations from the investigation.
+
+Attempts to report the incident to SendGrid's abuse team were blocked by Gmail's outgoing security controls.
 
 ## Ethical and analytical boundaries
 
