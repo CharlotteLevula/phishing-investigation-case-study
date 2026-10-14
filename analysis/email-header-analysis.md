@@ -12,7 +12,7 @@ The phishing email was received **11 October 2026, 16:45:14 UTC** (19:45:14 Finl
 | DKIM `d=` | `banango[.]app` | Signature verified for this domain |
 | SPF / DKIM / DMARC | pass / pass / pass | For `banango.app`, not for Kanta.fi |
 | SendGrid SMTP ID | `T46qwEZ_TPqlaanaIlZIpQ` | Potentially useful to provider-side investigation |
-| Message-ID | `<a0b2e050-5370-eb01-550b-69806cb21439@banango.app>` | Message correlation, not identity proof |
+| Message-ID | `REDACTED – unique message identifier` | Message correlation, not identity proof |
 | Tracking host | `url7399.banango[.]app` | Open-tracking pixel host |
 | Landing host | `omaverossa-suomii[.]com` | Impersonation link |
 
